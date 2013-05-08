@@ -29,7 +29,11 @@ Growl, tested with 2.0.1
 
 ### Tips
 
-Use this with Prowl or Boxcar. Download OSX Combo Update. Go out for coffee. DING. Your download is done, either remote into the machine and do things, or head home. With coffee.
+- You don't need to add 'Kind is not Application' or any conditions like that, because Applications are Folders. Adding Applications breaks the workflow.
+
+- If you use a 'bulk downloader' save *those files* to another folder & save yourself some grief. Growl & Notification Center both have 'flood control' but don't push it.
+
+- Use this with Prowl or Boxcar. Download OSX Combo Update. Go out for coffee. DING. Your download is done, either remote into the machine and do things, or head home. With coffee.
 
 ### Workarounds
 
