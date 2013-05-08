@@ -13,9 +13,9 @@ Do you like staring at Download progress buttons or bars? Neither do I. If you h
 
 I miss 'SafariGrowl' and Chrome doesn't notify either. This method doesn't work for Firefox, but if you need the functionality there try the Firefox extension ["Growl GNTP"](https://addons.mozilla.org/en-US/firefox/addon/growlgntp/) which works with Firefox 20, even on Mac.
 
-Using a last 'any file' rule is problematic. Why? Unzip file. DING. Move into folder. DING. Oh wow! A folder! DING. 
+Hazel is great, but if you use 'Any file' as a last rule it can be problematic. Why? Unzip file. DING. Move into folder. DING. Oh wow! A folder! DING. 
 
-Using this rule, it should catch any file being 'created' via browser Download and *then* just go DING.
+Using *this* rule, it should catch "Any File" being 'created' via browser Download and *then* just go DING.
 
 ## Requires
 
