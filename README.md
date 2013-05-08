@@ -3,7 +3,7 @@
 
 SDDD is a Hazel rule for use in ~/Downloads folder to notify you: "Download Done". 
 
-![SDDD](https://github.com/leoofborg/SDDD/blob/master/README.jpg)
+![SDDD](README.jpg)
 
 ## Why?
 
