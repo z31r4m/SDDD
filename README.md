@@ -7,9 +7,11 @@ SDDD is a Hazel rule for use in ~/Downloads folder to notify you: "Download Done
 
 ## Why?
 
-Do you like staring at Download progress? Neither do I. If you have better things to do, but still want to know when a Download is 'done' this is for you.
+Do you like staring at Download progress buttons or bars? Neither do I. If you have better things to do, but still want to know when a Download is 'done' this is for you.
 
-Because I miss 'SafariGrowl' and Chrome doesn't notify either. This method doesn't work for Firefox, but if you need the functionality there try the Firefox extension "Growl GNTP" which works with Firefox 20, even on Mac.
+### No, Really, Why?
+
+I miss 'SafariGrowl' and Chrome doesn't notify either. This method doesn't work for Firefox, but if you need the functionality there try the Firefox extension "Growl GNTP" which works with Firefox 20, even on Mac.
 
 Using a last 'any file' rule is problematic. Why? Unzip file. DING. Move into folder. DING. Oh wow! A folder! DING. 
 
@@ -17,6 +19,7 @@ Using this rule, it should catch any file being 'created' via browser Download a
 
 ## Requires
 
+Mac OS X, why? BECAUSE.
 Hazel, tested with 3.0.18
 Growl, tested with 2.0.1
 
