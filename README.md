@@ -21,9 +21,9 @@ Using *this* rule, it should catch "Any File" being 'created' via browser Downlo
 
 ## Requires
 
-Mac OS X, why? BECAUSE.
-Hazel, tested with 3.0.18
-Growl, tested with 2.0.1
+- Mac OS X, why? BECAUSE.
+- Hazel, tested with 3.0.18
+- Growl, tested with 2.0.1
 
 ## Usage
 
