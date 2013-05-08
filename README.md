@@ -7,7 +7,9 @@ SDDD is a Hazel rule for use in ~/Downloads folder to notify you: "Download Done
 
 ## Why?
 
-Do you like staring at Download progress buttons or bars? Neither do I. If you have better things to do, but still want to know when a Download is 'done' this is for you.
+This started as an idea in the [Hazel Forums](http://www.noodlesoft.com/forums/viewtopic.php?f=3&t=2120&p=8892).
+
+Do you like staring at Download progress buttons or bars? Neither do I. If you have better things to do, but still want to know when a Download is 'done' this is for you. 
 
 ### No, Really, Why?
 
