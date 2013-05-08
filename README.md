@@ -11,7 +11,7 @@ Do you like staring at Download progress buttons or bars? Neither do I. If you h
 
 ### No, Really, Why?
 
-I miss 'SafariGrowl' and Chrome doesn't notify either. This method doesn't work for Firefox, but if you need the functionality there try the Firefox extension "Growl GNTP" which works with Firefox 20, even on Mac.
+I miss 'SafariGrowl' and Chrome doesn't notify either. This method doesn't work for Firefox, but if you need the functionality there try the Firefox extension ["Growl GNTP"](https://addons.mozilla.org/en-US/firefox/addon/growlgntp/) which works with Firefox 20, even on Mac.
 
 Using a last 'any file' rule is problematic. Why? Unzip file. DING. Move into folder. DING. Oh wow! A folder! DING. 
 
