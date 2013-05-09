@@ -13,7 +13,7 @@ Do you like staring at Download progress buttons or bars? Neither do I. If you h
 
 ### No, Really, Why?
 
-I miss 'SafariGrowl' and Chrome doesn't notify either. This method doesn't work for Firefox, but if you need the functionality there try the Firefox extension ["Growl GNTP"](https://addons.mozilla.org/en-US/firefox/addon/growlgntp/) which works with Firefox 20, even on Mac.
+I miss 'SafariGrowl' and Chrome doesn't notify either. Firefox *has* Growl support if you push it to the background.
 
 Hazel is great, but if you use 'Any file' as a last rule it can be problematic. Why? Unzip file. DING. Move into folder. DING. Oh wow! A folder! DING. 
 
